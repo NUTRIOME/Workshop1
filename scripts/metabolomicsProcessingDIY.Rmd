@@ -184,6 +184,7 @@ data %>%
     xlab("") +
     ylab("Tip (%)") +
     ylim(0,40)
+?geom_violin
 ```
 
 # Find Outliers by visualising violin plots on own data
