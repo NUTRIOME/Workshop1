@@ -82,7 +82,7 @@ metadata <- read.table(file = 'SraRunTable_Diet.txt', sep = ",", header = TRUE)
 #Task 4: Check if the metadata file is correctly loaded!
 
 ```{r}
-#Create the "dds" object from count data and metadata. The experimental design compares via diagnosis (COS vs control). This is a design if you have only one variable to compare experimental groups.
+#Create the "dds" object from count data and metadata. The experimental design compares the diet intervention (LP versus HP). This is a design if you have only one variable to compare experimental groups.
 dds <- DESeqDataSetFromMatrix(countData = data,
                              colData = metadata,
                              design = ~ diet_intervention, tidy = FALSE)
