@@ -114,11 +114,9 @@ targets <- read.csv('datasets/targets.csv')
   project$other$Detection <- detectionpvalues
 ```
 
-
-
+```{r}
 # for BeadArrays, background correction and normalisation are handled by a single function: neqc()
 # this is the same as per Agilent single colour arrays
-```{r}
 project.bgcorrect.norm <- neqc(project, offset = 16)
 ```
 
@@ -198,8 +196,6 @@ write.table(expression_data, "normalised-data.txt", na ="", row.names=TRUE,  sep
 
 ```{r}
 # input normalized data, generate an ExpressionSet object for illumina analysis, extract sample name
-
-
 trans_data <- read.table("normalised-data.txt", header = TRUE, sep = '\t', stringsAsFactors = FALSE)
 trans_matrix <- as.matrix(trans_data)
 eset <- ExpressionSet(trans_matrix, annotation=rownames(trans_data))
@@ -231,8 +227,6 @@ fit2 <- eBayes(fit2)
 TopTable_Ex_diet <- topTable(fit2, adjust.method="BH", coef="ExDiet_end_vs_baseline", number=Inf)
 TopTable_C_diet <- topTable(fit2, adjust.method="BH", coef="CDiet_end_vs_baseline", number=Inf)
 ```
-
-
 
 
 ```{r}
