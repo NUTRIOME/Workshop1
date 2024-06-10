@@ -100,19 +100,19 @@
 <h4>Location: Universiteitssingel 60, Co-Greepzaal (M5.01), 6229 ER Maastricht</h4>
 <table>
 <tr>
-<td><b>Time</b></td><td><b>Topic</b></td><td><b>Teacher</b></td><td><b> </b></td>
+<td><b>Time</b></td><td><b>Topic</b></td><td><b>Teacher</b></td><td><b>Material</b></td>
 </tr>
 <tr>
-<td>09:30-10:15</td><td>Lecture: Pathway analysis</td><td>Martina Kutmon</td><td><b> </b></td>
+<td>09:30-10:15</td><td>Lecture: Pathway analysis</td><td>Martina Kutmon</td><td><b><a href="https://github.com/NUTRIOME/Workshop1/blob/main/lectures/Day4_MSummerKutmon-PathwayAnalysis.pdf" target="_blank">slides</a></b></td>
 </tr>
 <tr>
-<td>10:15-11:00</td><td>Lecture: Network analysis</td><td>Martina Kutmon</td><td><b> </b></td>
+<td>10:15-11:00</td><td>Lecture: Network analysis</td><td>Martina Kutmon</td><td><b><a href="https://github.com/NUTRIOME/Workshop1/blob/main/lectures/Day4_MSummerKutmon-NetworkAnalysis.pdf" target="_blank">slides</a></b></td>
 </tr>
 <tr>
 <td>11:00-11:15</td><td>Coffee/tea</td><td> </td><td><b> </b></td>
 </tr>
 <tr>
-<td>11:15-12:00</td><td>Lecture: Multi-omics integration</td><td>Denise Slenter</td><td><b> </b></td>
+<td>11:15-12:00</td><td>Lecture: Multi-omics integration</td><td>Denise Slenter</td><td><b><a href="https://github.com/NUTRIOME/Workshop1/blob/main/lectures/Day4_Denise_MultiOmicsIntegration.pdf" target="_blank">slides</a></b></td>
 </tr>
 <tr>
 <td>12:00-13:00</td><td>Lunch (3-landenpunt UNS40)</td><td> </td><td><b> </b></td>
@@ -131,10 +131,10 @@
 <h4>Location: Universiteitssingel 60, Co-Greepzaal (M5.01), 6229 ER Maastricht</h4>
 <table>
 <tr>
-<td><b>Time</b></td><td><b>Topic</b></td><td><b>Teacher</b></td><td><b> </b></td>
+<td><b>Time</b></td><td><b>Topic</b></td><td><b>Teacher</b></td><td><b>Material</b></td>
 </tr>
 <tr>
-<td>09:30-10:15</td><td>Lecture: Research data management</td><td>Mijke Jetten</td><td><b> </b></td>
+<td>09:30-10:15</td><td>Lecture: Research data management</td><td>Mijke Jetten</td><td><b><a href="https://zenodo.org/doi/10.5281/zenodo.11472871" target="_blank">slides</a></b></td>
 </tr>
 <tr>
 <td>10:15-11:00</td><td>Tutorial: Research data management part 1</td><td>Mijke, Martina, Susan</td><td><b> </b></td>
