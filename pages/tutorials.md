@@ -3,8 +3,8 @@
 Each workshop day includes hands-on tutorial sessions where you will apply the analyses discussed for the different topics.
 
 * Tutorial day 2 - Metabolomics data analysis
+  * Metabolomics: <a href="https://github.com/NUTRIOME/Workshop1/tree/main/scripts/Metabolomics" target="_blank">Rmd files</a>
   * Additional information
-      * Metabolomics: <a href="https://github.com/NUTRIOME/Workshop1/tree/main/scripts/Metabolomics" target="_blank">Rmd files</a>
       * Datacamp Introduction to R: <a href="https://app.datacamp.com/learn/courses/free-introduction-to-r" target="_blank">link to Datacamp</a>
       * GitHub introduction: <a href="https://docs.github.com/en/get-started/start-your-journey/hello-world" target="_blank">link to Datacamp</a>
 * Tutorial day 3 - Transcriptomics data analysis
