@@ -6,7 +6,7 @@ Each workshop day includes hands-on tutorial sessions where you will apply the a
   * Metabolomics: <a href="https://github.com/NUTRIOME/Workshop1/tree/main/scripts/Metabolomics" target="_blank">Rmd files</a>
   * Additional information
       * Datacamp Introduction to R: <a href="https://app.datacamp.com/learn/courses/free-introduction-to-r" target="_blank">link to Datacamp</a>
-      * GitHub introduction: <a href="https://docs.github.com/en/get-started/start-your-journey/hello-world" target="_blank">link to Datacamp</a>
+      * GitHub introduction: <a href="https://docs.github.com/en/get-started/start-your-journey/hello-world" target="_blank">link to GitHub documentation</a>
 * Tutorial day 3 - Transcriptomics data analysis
   * RNA sequencing: <a href="https://github.com/NUTRIOME/Workshop1/tree/main/scripts/RNA_seq" target="_blank">Dataset and Rmd file</a>
   * Illumina beadchip: <a href="https://github.com/NUTRIOME/Workshop1/tree/main/scripts/Illumina" target="_blank">Dataset and Rmd file</a>
